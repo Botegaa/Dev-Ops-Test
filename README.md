@@ -14,7 +14,7 @@
 
 - 📚Atualmente estou estudando a linguaguem swift
 
--✅Algumas linguagens que tenho conhecimento são: 
+- ✅Algumas linguagens que tenho conhecimento são: 
 - 🐍Python 
 - 📒JavaScript
 - 👴Java
