@@ -4,17 +4,17 @@
 ### Olá me chamo Pedro 
 
 
-🌍 Sou de Tubarão
+-🌍 Sou de Tubarão
 
-💻 Tenho 22 Anos
+-💻 Tenho 22 Anos
   
-🎓 ADS CESUSC (2024-2025)
+-🎓 ADS CESUSC (2024-2025)
              
-🎯Tenho como objetivo me tornar programador mobile
+-🎯Tenho como objetivo me tornar programador mobile
 
-📚Atualmente estou estudando a linguaguem swift
+-📚Atualmente estou estudando a linguaguem swift
 
-✅Algumas linguagens que tenho conhecimento são: 
+-✅Algumas linguagens que tenho conhecimento são: 
 - 🐍Python 
 - 📒JavaScript
 - 👴Java
